@@ -1,10 +1,16 @@
-# SIG Soluciones — vista previa
+# Vistas previas web
 
-Vista pública de evaluación del rediseño de [sigsoluciones.cl](https://sigsoluciones.cl).
+Repositorio público de evaluación. Los contenidos están sujetos a aprobación y no reemplazan los sitios oficiales.
 
-La actualización incorpora una sección de **Capacidades técnicas** con siete líneas de trabajo, manteniendo la explicación simple de la portada.
+## Propuestas disponibles
 
-- Contenido sujeto a aprobación.
-- No reemplaza el sitio oficial.
-- No recopila ni almacena datos: el formulario abre la aplicación de correo del visitante.
-- Marcada como `noindex` para evitar competir con el dominio oficial en buscadores.
+- `/` — Rediseño de SIG Soluciones.
+- `/atomdata-ai/` — Propuesta de producto para Forky por AtomData.
+- `/atomdata-cl/` — Propuesta corporativa para AtomData.
+
+## Condiciones
+
+- Ninguna vista modifica los dominios oficiales.
+- No recopilan ni almacenan datos; los CTA de contacto abren la aplicación de correo.
+- Las copias de evaluación están marcadas como `noindex` y sirven únicamente para revisión.
+- Los ejemplos de interfaces y contenido son ilustrativos.
