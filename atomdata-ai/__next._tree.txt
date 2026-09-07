@@ -1,2 +1,2 @@
 :HL["/sigsoluciones-preview/atomdata-ai/_next/static/chunks/1vq2baqfa53iq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"kT8iFcq6ditY5U4p8b9s6"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"cUy6bcY5Q4_xYMd3SScMt"}
